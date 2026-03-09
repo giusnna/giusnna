@@ -2,8 +2,8 @@
 
 ## About me
 - Name: Giulia Senna
-- Occupation: Administrative Manager
-- Course: Computer Engineering (6th semester)
+- Occupation: Data Intern
+- Course: Computer Engineering (7th semester)
 - Location: Brazil, São Paulo
 - Languages: Portuguese, English
 - Focus: Data Engineering
@@ -11,11 +11,13 @@
 ## Languages
 - Python
 - SQL
+- C
+- Java
 
 ## Technologies & Tools
-- Power BI
 - Databricks
 - Azure
+- Power BI
 - Git
 
 
